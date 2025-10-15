@@ -14,7 +14,15 @@ $$\pi \approx 4 \times \frac{\text{points inside circle}}{\text{total points}}$$
 
 ---
 
-## 📁 Files Description
+## � Repository Structure
+
+### Documentation
+- **`report/`**: Detailed technical report with mathematical analysis and experimental results
+- **`slides/`**: Presentation slides (LaTeX-generated) covering key concepts and demonstrations
+
+### Code Files
+
+### Code Files
 
 ### 1. `simplified_mc.py` - Basic Monte Carlo
 **Purpose**: Baseline implementation of standard Monte Carlo method.
